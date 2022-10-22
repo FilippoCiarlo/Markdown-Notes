@@ -1,5 +1,4 @@
 # Markdown Notes
-## Index
 1. **Heading**
 2. **Horizontal Lines**
 3. **Line Breaks**
@@ -19,4 +18,4 @@
 12. **Tables**
 13. **Images**
 14. **Colored Text Boxes**
-15. **&#9650;&#9645; UTF-8 Geometric Shapes &#9642;&#9641;</br>**
+15. **&#9650;&#9645; UTF-8 Geometric Shapes &#9642;&#9641;**
