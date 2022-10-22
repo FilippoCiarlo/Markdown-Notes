@@ -17,5 +17,5 @@
 11. **$Mathmatical Eqations$**
 12. **Tables**
 13. **Images**
-14. **<div class="alert alert-block alert-info">Colored Text Boxes</div>**
+14. **Colored Text Boxes**
 15. **&#9650;&#9645; UTF-8 Geometric Shapes &#9642;&#9641;</br>**
