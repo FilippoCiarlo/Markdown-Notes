@@ -1,4 +1,4 @@
-# Markdown Notes
+# <img src = "images/Markdown-mark.svg" width=35> Markdown Notes 
 1. **Heading**
 2. **Horizontal Lines**
 3. **Line Breaks**
