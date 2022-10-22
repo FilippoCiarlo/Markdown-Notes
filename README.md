@@ -13,9 +13,9 @@
 7. **Bullet List**
 8. **Tasks List**
 9. **Indentation**
-10. **Hyperlinks**
+10. **[Hyperlinks](https://github.com/FilippoCiarlo/Notes-Markdown)**
 11. **$Mathmatical Eqations$**
 12. **Tables**
 13. **Images**
-14. **Colored Text Boxes**
-15. **UTF-8 Geometric Shapes**
+14. **<div class="alert alert-block alert-info">Colored Text Boxes</div>**
+15. **&#9650;&#9645; UTF-8 Geometric Shapes &#9642;&#9641;</br>**
