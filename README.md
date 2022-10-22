@@ -1,16 +1,21 @@
 # Markdown Notes
-1. [Heading](./notes_Markdown.ipynb#1)
-2. [Lines](./notes_Markdown.ipynb#2)
-3. [Line Breaks](./notes_Markdown.ipynb#3)
-4. [Italics, Bold and Strikethrough](./notes_Markdown.ipynb#4)
-5. [Code Blocks](./notes_Markdown.ipynb#5)
-6. [Numbered List](./notes_Markdown.ipynb#6)
-7. [Bullet List](./notes_Markdown.ipynb#7)
-8. [Tasks List](./notes_Markdown.ipynb#8)
-9. [Indentation](./notes_Markdown.ipynb#9)
-10. [Hyperlinks](./notes_Markdown.ipynb#10)
-11. [Mathmatical Eqations](./notes_Markdown.ipynb#11)
-12. [Tables](./notes_Markdown.ipynb#12)
-13. [Images](./notes_Markdown.ipynb#13)
-14. [Coloured Text Boxes](./notes_Markdown.ipynb#14)
-15. [UTF-8 Geometric Shapes](./notes_Markdown.ipynb#15)
+1. Heading
+2. Horizontal Lines
+3. Line Breaks
+4. ## Text
+    1. ### Italics
+    2. ### Bold
+    3. ### Strikethrough
+    4. ### Mixed
+    5. ### Colored Text
+5. Code Blocks
+6. Numbered List
+7. Bullet List
+8. Tasks List
+9. Indentation
+10. Hyperlinks
+11. Mathmatical Eqations
+12. Tables
+13. Images
+14. Colored Text Boxes
+15. UTF-8 Geometric Shapes
