@@ -1,4 +1,5 @@
 # Markdown Notes
+## Index
 1. **Heading**
 2. **Horizontal Lines**
 3. **Line Breaks**
@@ -13,7 +14,7 @@
 7. **Bullet List**
 8. **Tasks List**
 9. **Indentation**
-10. **[Hyperlinks](https://github.com/FilippoCiarlo/Notes-Markdown)**
+10. **[Hyperlinks](https://github.com/FilippoCiarlo/Markdown-Notes)**
 11. **$Mathmatical Eqations$**
 12. **Tables**
 13. **Images**
